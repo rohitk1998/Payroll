@@ -1,0 +1,6 @@
+.dashbaord{
+    flex:5;
+    width: 100%;
+    transition: 1s ease-out;
+    background-color: rgb(114, 114, 114);
+}
